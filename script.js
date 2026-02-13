@@ -27,7 +27,13 @@ const products = [
         title: "Salicylic Acid Jamun Face Wash Cleanser",
         price: "₹299",
         image: "IMAGES/41TJGAN8fwL._SL1080_.jpg",
-        link: "https://amzn.to/4tyEeW4"
+        link: "https://amzn.to/4rikl47"
+    },
+     {
+        title: "Salicylic Acid Jamun Face Wash Cleanser For Active Acne And Oil",
+        price: "₹263",
+        image: "IMAGES/41TJGAN8fwL._SL1080_.jpg",
+        link: "https://fktr.in/BHWeX2z"
     }
 ];
 
