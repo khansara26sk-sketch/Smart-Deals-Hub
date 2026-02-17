@@ -34,6 +34,36 @@ const products = [
         price: "₹263",
         image: "IMAGES/41TJGAN8fwL._SL1080_.jpg",
         link: "https://fktr.in/BHWeX2z"
+    },
+    {
+        title: "The Derma Co 1% Hyaluronic Sunscreen",
+        price: "₹419",
+        image: "IMAGES/61GWPBUra2L._SX679_.jpg",
+        link: "https://amzn.to/4qLHrz9"
+    },
+    {
+        title: "Cetaphil Moisturising Lotion 118 ml for Dry to Normal & Sensitive Skin",
+        price: "₹617",
+        image: "IMAGES/61AM9NwjeCL._SL1500_.jpg",
+        link: "https://amzn.to/46U2R5K"
+    },
+    {
+        title: "Bluetooth Speaker with Wireless Karaoke Mic",
+        price: "₹1799",
+        image: "IMAGES/71sPfflOEML._SX522_.jpg",
+        link: "https://amzn.to/46dPa1v"
+    },
+    {
+        title: "Ambrane 20000mAh Powerbank",
+        price: "₹1299",
+        image: "IMAGES/8169fyLD3vL._SL1500_.jpg",
+        link: "https://amzn.to/4kFa5R3"
+    },
+    {
+        title: "Cute Animal Phone Holder",
+        price: "₹498",
+        image: "IMAGES/71RV1CQcBvL._SX522_.jpg",
+        link: "https://amzn.to/4tMruve"
     }
 ];
 
