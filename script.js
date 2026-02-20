@@ -64,6 +64,12 @@ const products = [
         price: "₹498",
         image: "IMAGES/71RV1CQcBvL._SX522_.jpg",
         link: "https://amzn.to/4tMruve"
+    },
+    {
+        title: "Women Printed Round Neck Grey T-Shirt",
+        price: "₹200",
+        image: "IMAGES/s-3-4-women-grey-bpockettree-calm-down-original-imah4rsverpgzmj6.webp",
+        link: "https://fktr.in/ggv96h0"
     }
 ];
 
