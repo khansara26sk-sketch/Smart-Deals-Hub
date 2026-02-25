@@ -70,6 +70,12 @@ const products = [
         price: "₹200",
         image: "IMAGES/s-3-4-women-grey-bpockettree-calm-down-original-imah4rsverpgzmj6.webp",
         link: "https://fktr.in/ggv96h0"
+    },
+    {
+        title: "FLoral Print Women Kurti",
+        price: "₹269",
+        image: "IMAGES/xl-1-short-kurti-fabricfetch-textiles-original-imahjssygqfjetam.webp",
+        link: "https://fktr.in/8rTcc5I"
     }
 ];
 
