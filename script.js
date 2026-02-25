@@ -76,6 +76,12 @@ const products = [
         price: "₹269",
         image: "IMAGES/xl-1-short-kurti-fabricfetch-textiles-original-imahjssygqfjetam.webp",
         link: "https://fktr.in/8rTcc5I"
+    },
+    {
+        title: "Women Embroidered Pure Cotton Straight Kurta",
+        price: "₹325",
+        image: "IMAGES/m-091-blue-yoke-kurta-physil-original-imaha7ghdamrkzkj.webp",
+        link: "https://fktr.in/4OyNy4h"
     }
 ];
 
