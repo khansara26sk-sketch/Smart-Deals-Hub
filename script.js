@@ -82,6 +82,36 @@ const products = [
         price: "₹325",
         image: "IMAGES/m-091-blue-yoke-kurta-physil-original-imaha7ghdamrkzkj.webp",
         link: "https://fktr.in/4OyNy4h"
+    },
+    {
+        title: "Cetaphil Gentle Skin Hydrating Face Wash",
+        price: "₹360",
+        image: "IMAGES/51y9Mu773YL._SX679_.jpg",
+        link: "https://amzn.to/40zUtVz"
+    },
+     {
+        title: "LEDO Men's and Women's Watch Box Holder Organizer Case",
+        price: "₹746",
+        image: "IMAGES/713DaoqZXnL._SL1500_.jpg",
+        link: "https://amzn.to/4rInBGg"
+    },
+    {
+        title: "The Plant Fix Plix | Pineapple De-Pigmentation",
+        price: "₹1149",
+        image: "IMAGES/61At42w-1FL._SL1080_.jpg",
+        link: "https://amzn.to/4cke7Mp"
+    },
+    {
+        title: "PLIX - THE PLANT FIX l Rosemary Anti Hairfall Regime Combo",
+        price: "₹1000",
+        image: "IMAGES/71qfGWjYzPL._SL1500_.jpg",
+        link: "https://amzn.to/4sfKHUi"
+    },
+    {
+        title: "Casio Vintage A-158WA-1Q Digital Grey Dial Unisex Watch",
+        price: "₹1894",
+        image: "IMAGES/61ybeKQto8L._SY879_.jpg",
+        link: "https://amzn.to/4aXHli0"
     }
 ];
 
