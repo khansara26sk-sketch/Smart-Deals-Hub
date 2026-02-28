@@ -112,6 +112,12 @@ const products = [
         price: "₹1894",
         image: "IMAGES/61ybeKQto8L._SY879_.jpg",
         link: "https://amzn.to/4aXHli0"
+    },
+    {
+        title: "Men Regular Fit Solid Spread Collar Casual Shirt",
+        price: "₹759",
+        image: "IMAGES/2xl-ts1101-thomas-scott-original-imagteynm9u3yvgf.webp",
+        link: "https://fktr.in/2d4iVcF"
     }
 ];
 
