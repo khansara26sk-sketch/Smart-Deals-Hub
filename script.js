@@ -124,6 +124,30 @@ const products = [
         price: "₹255",
         image: "IMAGES/-original-imahjzwcazkzpvfa.webp",
         link: "https://fktr.in/w1Zd0iR"
+    },
+    {
+        title: "Jopasu Car Duster",
+        price: "₹785",
+        image: "IMAGES/61ge72aiPiL._SL1000_.jpg",
+        link: "https://amzn.to/4rM9Ypv"
+    },
+    {
+        title: "Safari Omega spacious/large laptop backpack with Raincover",
+        price: "₹679",
+        image: "IMAGES/71maWXZscfL._SL1500_.jpg",
+        link: "https://amzn.to/4rKpSkb"
+    },
+    {
+        title: "HP 15, 13th Gen Intel Core i3-1315U (12GB DDR4, 512GB SSD)",
+        price: "₹41990",
+        image: "IMAGES/71FXHAM+jWL._SL1500_.jpg",
+        link: "https://amzn.to/4cSyErB"
+    },
+    {
+        title: "ZEBRONICS Fame, 2.0 USB Computer Speakers, 5 Watts, USB Powered",
+        price: "₹419",
+        image: "IMAGES/81SHKIaQDXL._SX522_.jpg",
+        link: "https://amzn.to/3NcIQAT"
     }
 ];
 
