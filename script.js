@@ -118,6 +118,12 @@ const products = [
         price: "₹759",
         image: "IMAGES/2xl-ts1101-thomas-scott-original-imagteynm9u3yvgf.webp",
         link: "https://fktr.in/2d4iVcF"
+    },
+    {
+        title: "Women Floral Print Viscose Rayon Straight Kurta",
+        price: "₹255",
+        image: "IMAGES/-original-imahjzwcazkzpvfa.webp",
+        link: "https://fktr.in/w1Zd0iR"
     }
 ];
 
