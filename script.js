@@ -148,6 +148,41 @@ const products = [
         price: "₹419",
         image: "IMAGES/81SHKIaQDXL._SX522_.jpg",
         link: "https://amzn.to/3NcIQAT"
+    },
+    {
+        title: "Men Pure Cotton Casual Shirt",
+        price: "₹447",
+        image: "IMAGES/shopping (5).webp",
+        link: "https://myntr.it/eq8rpgS"
+    },
+     {
+        title: "Men Blue Straight Fit Clean Look Stretchable Jeans",
+        price: "₹499",
+        image: "IMAGES/download (13).jpg",
+        link: "https://myntr.it/Hocptjf"
+    },
+    {
+        title: "Floral Embroidered Thread Work Kurta With Trousers & Dupatta",
+        price: "₹1081",
+        image: "IMAGES/download (14).jpg",
+        link: "https://myntr.it/xSH0s9G"
+    },
+     {
+        title: "Fruit Wooden Wheelies for Babies | Set of 4",
+        image: "IMAGES/20444750a.webp",
+        link: "https://bitli.in/WusEuFZ"
+    },
+    {
+        title: "Babyhug Star Links 12 Pcs Colorful Toy",
+        price: "₹135",
+        image: "IMAGES/13085239a.webp",
+        link: "https://bitli.in/bOmoeAU"
+    },
+    {
+        title: "Babyhug Press & Go Spaceship Toy for Kids",
+        price: "₹139",
+        image: "IMAGES/20591573a.webp",
+        link: "https://bitli.in/wn7liof"
     }
 ];
 
