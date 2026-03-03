@@ -183,6 +183,18 @@ const products = [
         price: "₹139",
         image: "IMAGES/20591573a.webp",
         link: "https://bitli.in/wn7liof"
+    },
+    {
+        title: "Men U.S.Polo Assn Shirt",
+        price: "₹900",
+        image: "IMAGES/MP000000024202461_437Wx649H_202410250535053.avif",
+        link: "https://bitli.in/6Lp6oXX"
+    },
+    {
+        title: "Urbano Fashion Men's Loose Mid Rise Baggy Fit Washed Jeans Non-Stretchable",
+        price: "₹804",
+        image: "IMAGES/61tlcEe5QjL._SY741_.jpg",
+        link: "https://amzn.to/4cY3Q8U"
     }
 ];
 
