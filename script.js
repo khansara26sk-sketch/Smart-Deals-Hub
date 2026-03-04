@@ -195,7 +195,14 @@ const products = [
         price: "₹804",
         image: "IMAGES/61tlcEe5QjL._SY741_.jpg",
         link: "https://amzn.to/4cY3Q8U"
+    },
+    {
+        title: "THE HOME STYLE Cotton Printed King Size Double Bed Bedsheet With 2 Pillow Cover",
+        price: "₹631",
+        image: "IMAGES/71v3kjrOuOL._SL1499_.jpg",
+        link: "https://amzn.to/40HCTPp"
     }
+    
 ];
 
 const container = document.getElementById("productContainer");
