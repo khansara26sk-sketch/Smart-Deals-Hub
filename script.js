@@ -201,6 +201,18 @@ const products = [
         price: "₹631",
         image: "IMAGES/71v3kjrOuOL._SL1499_.jpg",
         link: "https://amzn.to/4cYL5Ce"
+    },
+    {
+        title: "Grey Ethnic Motifs Pure Cotton 144 TC Queen Bedsheet with 2 Pillow Covers-87 x 108 inches",
+        price: "₹699",
+        image: "IMAGES/shopping (6).webp",
+        link: "https://myntr.it/ZfptvTX"
+    },
+    {
+        title: "Luxury Satin 360° Fitted King Bedsheet with 2 Pillow Covers",
+        price: "₹999",
+        image: "IMAGES/61Y8rV23nNL._SX679_.jpg",
+        link: "https://amzn.to/4l9Blr3"
     }
     
 ];
