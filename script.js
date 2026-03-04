@@ -213,6 +213,12 @@ const products = [
         price: "₹999",
         image: "IMAGES/61Y8rV23nNL._SX679_.jpg",
         link: "https://amzn.to/4l9Blr3"
+    },
+    {
+        title: "Cooling Gel White Striped Polycotton Cooling Medium Memory Foam Sleep Pillow-68 x 43 cm",
+        price: "₹599",
+        image: "IMAGES/images (8).jpg",
+        link: "https://myntr.it/QYHkopT"
     }
     
 ];
