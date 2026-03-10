@@ -225,6 +225,12 @@ const products = [
         price: "₹224",
         image: "IMAGES/xxl-half-sleeve-oversized-t-shirts-for-women-hilfire-region-original-imahhfaw3ffkvg8n.webp",
         link: "https://fktr.in/61PlWok"
+    },
+    {
+        title: "Cooling Medium Memory Foam Sleep Pillow",
+        price: "₹599",
+        image: "IMAGES/61IAhDvS01L._SX679_.jpg",
+        link: "https://myntr.it/AHNyE0e"
     }
     
 ];
