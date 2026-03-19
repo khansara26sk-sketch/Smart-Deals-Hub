@@ -231,8 +231,13 @@ const products = [
         price: "₹599",
         image: "IMAGES/61IAhDvS01L._SX679_.jpg",
         link: "https://myntr.it/AHNyE0e"
-    }
-    
+    },
+   {
+        title: "PLIX THE PLANT FIX Set Of 4 Apple Cider Vinegar Tablet ",
+        price: "₹1195",
+        image: "IMAGES/61q5gmT8s7L._SL1080_.jpg",
+        link: "https://myntr.it/4pHcYEn"
+    } 
 ];
 
 const container = document.getElementById("productContainer");
