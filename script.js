@@ -237,7 +237,13 @@ const products = [
         price: "₹1195",
         image: "IMAGES/61q5gmT8s7L._SL1080_.jpg",
         link: "https://myntr.it/4pHcYEn"
-    } 
+    },
+    {
+        title: "Dot & Key Strawberry Dew Tinted Sunscreen SPF 50+",
+        price: "₹500",
+        image: "IMAGES/61aQjLw6vUL._SL1500_.jpg",
+        link: "https://amzn.to/4rVBW1m"
+    }
 ];
 
 const container = document.getElementById("productContainer");
