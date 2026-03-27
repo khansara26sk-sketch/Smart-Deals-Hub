@@ -243,6 +243,12 @@ const products = [
         price: "₹500",
         image: "IMAGES/61aQjLw6vUL._SL1500_.jpg",
         link: "https://amzn.to/4rVBW1m"
+    },
+    {
+        title: "Bosch Plastic High Pressure Washer",
+        price: "₹910",
+        image: "IMAGES/71v-oNNuY6L._SL1500_.jpg",
+        link: "https://amzn.to/3NQ9QXh"
     }
 ];
 
