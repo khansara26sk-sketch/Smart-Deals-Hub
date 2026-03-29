@@ -249,6 +249,18 @@ const products = [
         price: "₹910",
         image: "IMAGES/71v-oNNuY6L._SL1500_.jpg",
         link: "https://amzn.to/3NQ9QXh"
+    },
+    {
+        title: "360 Degree ABS Basin Mixer with Hot & Cold Single Lever",
+        price: "₹980",
+        image: "IMAGES/51vnPdZd7WL._SL1080_.jpg",
+        link: "https://amzn.to/4cb7uvo"
+    },
+    {
+        title: "House of Quirk 1200ML Stainless Steel Tumbler with Handle & Lid",
+        price: "₹999",
+        image: "IMAGES/71SFwwaq7mL._SL1500_.jpg",
+        link: "https://amzn.to/4rZW7Li"
     }
 ];
 
