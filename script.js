@@ -261,6 +261,12 @@ const products = [
         price: "₹999",
         image: "IMAGES/71SFwwaq7mL._SL1500_.jpg",
         link: "https://amzn.to/4rZW7Li"
+    },
+    {
+        title: "House of Quirk 1200ML Stainless Steel Tumbler",
+        price: "₹999",
+        image: "IMAGES/71dNXIm9hQL._SL1500_.jpg",
+        link: "https://amzn.to/4v1ly1V"
     }
 ];
 
